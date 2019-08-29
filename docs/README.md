@@ -2,8 +2,8 @@
 
 The DataIntel architecture is built on a few core services:
 
-- [Authentication + Authorization](./services/auth)
-- [Documents](./services/documents)
+- [Authentication + Authorization](./services/auth.md)
+- [Documents](./services/documents.md)
 
 ## Getting Started
 
