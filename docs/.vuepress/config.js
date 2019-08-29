@@ -5,6 +5,7 @@ module.exports = {
   themeConfig: {
     sidebar: 'auto',
     displayAllHeaders: true,
+    activeHeaderLinks: false,
     lastUpdated: 'Last updated',
     markdown: {
       lineNumbers: true,
