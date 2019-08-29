@@ -56,3 +56,5 @@ User tokens are valid only when the following conditions are met:
   "token": "string"
 }
 ```
+
+## Reference

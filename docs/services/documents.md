@@ -6,6 +6,8 @@
 
 ## Getting Started
 
+## Concepts
+
 ## How To
 
 ## Reference
